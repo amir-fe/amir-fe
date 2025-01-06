@@ -1,16 +1,23 @@
-## Hi there 👋
-
-<!--
-**amir-fe/amir-fe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <article class="markdown-body entry-content container-lg f5" itemprop="text">
+   <p dir="auto">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/efe3cf6b8e3e7147f09cd17357f8d9b6df3425d30ec6767ef085ac3b112858aa/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d4d6f6e7473657272617426636f6c6f723d636f72616c266c696e65733d49276d2b612b46726f6e74656e642b446576656c6f7065723b"><img src="https://camo.githubusercontent.com/efe3cf6b8e3e7147f09cd17357f8d9b6df3425d30ec6767ef085ac3b112858aa/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d4d6f6e7473657272617426636f6c6f723d636f72616c266c696e65733d49276d2b612b46726f6e74656e642b446576656c6f7065723b" alt="" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Montserrat&amp;color=coral&amp;lines=I'm+a+ss+Developer;" style="max-width: 100%;"></a>
+</p>
+   <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">🌐 Socials:</h2><a id="user-content--socials" class="anchor" aria-label="Permalink: 🌐 Socials:" href="#-socials"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+        <p dir="auto">
+        <a href="https://wa.me/+989380647497" rel="nofollow"><img src="https://camo.githubusercontent.com/904b9a232fa355dadbfaf51b241395f305f1e0110cb2967df18d2daf875faeec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174734170702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465" alt="WhatsApp" data-canonical-src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" style="max-width: 100%;"></a>
+        <a href="https://www.instagram.com/it.mc1" rel="nofollow"><img src="https://camo.githubusercontent.com/e2ad860f5db0900ef7a51420220056da4c8545a4cdc46af7f7411649a9c63493/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
+        <a href="https://t.me/unamired" rel="nofollow"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="SnapChat" data-canonical-src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&amp;logo=snapchat&amp;logoColor=white" style="max-width: 100%;"></a>
+        </p>
+        <div class="markdown-heading" dir="auto"><h1 class="heading-element" dir="auto">💻 Tech Stack:</h1><a id="user-content--tech-stack" class="anchor" aria-label="Permalink: 💻 Tech Stack:" href="#-tech-stack"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+        <p dir="auto">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.google.com/search?q=javascript%20info"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Windows" data-canonical-src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white" style="max-width: 100%;"></a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.google.com/search?q=jquery%20info"><img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="Illustrator" data-canonical-src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&amp;logo=adobeillustrator&amp;logoColor=white" style="max-width: 100%;"></a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.google.com/search?q=sass%20info"><img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="Illustrator" data-canonical-src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&amp;logo=adobeillustrator&amp;logoColor=white" style="max-width: 100%;"></a>
+        </p>
+        <p dir="auto">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.google.com/search?q=html5%20info"><img src="https://camo.githubusercontent.com/d4d9d935f85b68223a3514c6a889ea3ed6a77afb5f560c05baa1a1b168077830/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="HTML5" data-canonical-src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"></a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.google.com/search?q=css3%20info"><img src="https://camo.githubusercontent.com/930c71eac967cc5cec61c0aa08ba3719f9cb68e28cdffa63b28b0a31be1663b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" alt="CSS3" data-canonical-src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;"></a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.google.com/search?q=tailwindcss%20info"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Photoshop" data-canonical-src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&amp;logo=adobephotoshop&amp;logoColor=white" style="max-width: 100%;"></a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.google.com/search?q=bootstrap%20info"><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Java" data-canonical-src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&amp;logo=java&amp;logoColor=white" style="max-width: 100%;"></a>
+        </p>
+        </article>
